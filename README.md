@@ -1,6 +1,6 @@
 # File Shredder
 
-Advanced file shredding tool that remove files completely with no data left using encryption techniques.
+Advanced file shredding tool that deletes files with no data left using encryption techniques.
 
 ## Features
 
@@ -10,10 +10,10 @@ Advanced file shredding tool that remove files completely with no data left usin
 
 ## Installation
 
-pip install file-shredder
+pip install fshredder
 
 ## Usage
 
-shredder or shredder.py
+fshredder or fshredder.py
 
 
